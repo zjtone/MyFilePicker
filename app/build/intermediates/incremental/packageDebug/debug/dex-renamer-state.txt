@@ -1,0 +1,4 @@
+#Thu Sep 14 09:26:58 CST 2017
+base.0=/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/dexMerger/debug/21
+renamed.0=classes.dex
+file.0=/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/dexMerger/debug/21/classes.dex

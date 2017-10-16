@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/73ceaf21a51f925856b27438ca567812/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/b0fa725ce20b24516eabb0eb35255bdf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/f3457f425bc64b6e31a3b84bb6fa91c1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/49fed9664bbf3930cd0aa1e06e289093/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/9d1cd73fc5997f9c115827e41b658f92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/09e1f422f9c79460480d4c1368335ca4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/b369155a0c7d545097c8a3075311bdb2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/f71d090eb011bf8c5ebe4192bac122ed/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/d7793ee2c7abf06292808122f04014d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zjt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/b09132e8de51d38845f467c41b606b01/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+
+</items>

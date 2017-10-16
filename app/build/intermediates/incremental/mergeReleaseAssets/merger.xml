@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/zjt/AndroidStudioProjects/MyFilePicker/app/src/main/assets"/><source path="/home/zjt/AndroidStudioProjects/MyFilePicker/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/zjt/AndroidStudioProjects/MyFilePicker/app/src/release/assets"/></dataSet></merger>
